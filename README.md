@@ -1,4 +1,4 @@
-Rock, Paper, Scissors Game
+# Rock, Paper, Scissors Game
 A simple command-line implementation of the classic Rock, Paper, Scissors game in Python.
 
 # Description
