@@ -16,5 +16,4 @@ python rock_paper_scissors.py
 # Contributions
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to create an issue or submit a pull request.
 
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.  
+
